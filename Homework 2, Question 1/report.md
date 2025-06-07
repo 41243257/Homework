@@ -8,8 +8,11 @@
 ## 解題策略
 
 (1)先宣告兩個template分別是抽象基底類別 MinPQ、派生類別 MinHeap。
+
 (2)將Push()、Pop()、isEmpty()、Top()實現在MinPQ。
+
 (3)派生類別 MinHeap使用 `vector<T>`（動態陣列）儲存堆的節點。
+
 (4)使用迴圈percolateUp(int i)跟percolateDown(int i)比較大小。
 
 ---
