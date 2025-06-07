@@ -188,13 +188,3 @@ random_device rd;
 mt19937 gen(rd());
 uniform_int_distribution<> dist(1, 10000000);
 ```
-
-
-
-```
-
-```
-
-
-
-
