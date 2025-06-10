@@ -102,7 +102,7 @@ plt.show()
 ## 測試與驗證
 
 ### 測試案例
-
+![output (1)](https://github.com/user-attachments/assets/72c58855-9193-473e-b927-d23f44eae5af)
 
 
 ### 編譯與執行指令
